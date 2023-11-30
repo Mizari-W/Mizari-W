@@ -37,4 +37,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mizari-W&theme=dark&hide_border=true)
 ![](https://github-profile-trophy.vercel.app/?username=Mizari-W&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Mizari-W&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mizari-W&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
